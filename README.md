@@ -1,4 +1,4 @@
-# 3D Virtual Co-Working Space 🚀
+why# 3D Virtual Co-Working Space 🚀
 A **next-gen virtual co-working space** built with **MERN + Next.js + Three.js**, allowing users to collaborate in real-time using **3D avatars, interactive workspaces, and live chat/video calls**.
 
 ## 🔥 Features
@@ -64,4 +64,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any queries, feel free to reach out:
 - GitHub: [Your GitHub Profile](https://github.com/your-username)
 - Email: your-email@example.com
-gg
