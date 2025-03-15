@@ -8,7 +8,7 @@ A **next-gen virtual co-working space** built with **MERN + Next.js + Three.js**
 - **Video Calls & Screen Sharing** – Integrated with WebRTC.
 - **Authentication** – Secure login with NextAuth or Firebase.
 - **Fully Responsive UI** – Built with Tailwind CSS and Framer Motion.
-
+/
 ## 🛠 Tech Stack
 ### Frontend
 - Next.js
